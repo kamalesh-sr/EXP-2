@@ -82,8 +82,8 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Field current If (A) | Generated EMF Eg (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
+| 1 |115|0.16|
+| 2 |120| |
 | 3 | | |
 | 4 | | |
 | 5 | | |
